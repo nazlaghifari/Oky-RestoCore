@@ -6,6 +6,7 @@ target 'Core' do
   use_frameworks!
 
   # Pods for Core
+  pod 'RealmSwift'
 
   target 'CoreTests' do
     # Pods for testing
